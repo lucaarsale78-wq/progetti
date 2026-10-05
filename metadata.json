@@ -1,0 +1,6 @@
+{
+  "name": "TurniClinica - Gestione Turnistica Sanitaria",
+  "description": "Sistema completo di pianificazione turni per clinica privata con gestione 6 infermieri, 8 OSS, caposala, ferie, mutua, rotazione flessibile e generatore PHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
